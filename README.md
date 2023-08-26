@@ -1,6 +1,6 @@
 # codex_seraphinianus_ocr
 
-...
+ ...
 
 Based on Harald Scheidl's work. See:
 
